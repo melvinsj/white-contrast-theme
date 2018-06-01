@@ -18,3 +18,8 @@ web/.htaccess
 # Composer
 vendor/*
 !vendor/.gitkeep
+
+# vim temp files
+*.swp
+*.swo
+tags
